@@ -1,4 +1,4 @@
-- Nome e Cognome
+- Davide Riboli
 - Mail istituzionale
 - Numero di matricola/libretto
 - Indirizzo completo di https:// del proprio repository d'esame.
